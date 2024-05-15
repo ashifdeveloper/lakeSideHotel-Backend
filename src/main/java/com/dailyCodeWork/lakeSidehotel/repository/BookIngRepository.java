@@ -1,4 +1,4 @@
 package com.dailyCodeWork.lakeSidehotel.repository;
 
-public interface BookedRoomRepository {
+public interface BookIngRepository {
 }

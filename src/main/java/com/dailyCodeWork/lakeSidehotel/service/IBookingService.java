@@ -1,4 +1,4 @@
 package com.dailyCodeWork.lakeSidehotel.service;
 
-public interface IBookedRoomService {
+public interface IBookingService {
 }
